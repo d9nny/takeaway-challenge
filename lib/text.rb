@@ -4,8 +4,8 @@ require 'twilio-ruby'
 class Text 
 
 	def initialize
-		account_sid = 'AC11aeed4f312018cfab3572efe4aeb2ee' 
-		auth_token = '7d7dd325948ef9ecc02f99e797d6cce0' 
+		account_sid =  
+		auth_token =  
 		@client = Twilio::REST::Client.new account_sid, auth_token 
 	end
 
