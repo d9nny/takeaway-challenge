@@ -1,6 +1,18 @@
 Takeaway Challenge
 ==================
 
+Installation
+=============
+Clone this repo
+```sh
+$ git clone https://github.com/d9nny/takeaway-challenge
+To run tests:
+
+Open SpecRunner.html in a web browser
+
+To run locally:
+
+Open thermostat.html in a web browser
 Instructions
 -------
 * Feel free to use google, your notes, books, etc but work on your own
