@@ -6,13 +6,18 @@ Installation
 Clone this repo
 ```sh
 $ git clone https://github.com/d9nny/takeaway-challenge
+```
+Navigate to the root directory of the project.
+```sh
+$ bundle
+```
 To run tests:
 
-Open SpecRunner.html in a web browser
+```sh
+$ rspec
+```
+There is no user-interface for this project.
 
-To run locally:
-
-Open thermostat.html in a web browser
 Instructions
 -------
 * Feel free to use google, your notes, books, etc but work on your own
